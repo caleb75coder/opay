@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.footer {
+  position: sticky;
+  bottom: 0;
+}
+
+header {
+  position: sticky;
+  top: 0;
+}
